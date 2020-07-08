@@ -1,0 +1,13 @@
+C:\Users\mkref\source\repos\Lab03-System-I.O\CSharpReview\bin\Debug\netcoreapp3.1\CSharpReview.exe
+C:\Users\mkref\source\repos\Lab03-System-I.O\CSharpReview\bin\Debug\netcoreapp3.1\CSharpReview.deps.json
+C:\Users\mkref\source\repos\Lab03-System-I.O\CSharpReview\bin\Debug\netcoreapp3.1\CSharpReview.runtimeconfig.json
+C:\Users\mkref\source\repos\Lab03-System-I.O\CSharpReview\bin\Debug\netcoreapp3.1\CSharpReview.runtimeconfig.dev.json
+C:\Users\mkref\source\repos\Lab03-System-I.O\CSharpReview\bin\Debug\netcoreapp3.1\CSharpReview.dll
+C:\Users\mkref\source\repos\Lab03-System-I.O\CSharpReview\bin\Debug\netcoreapp3.1\CSharpReview.pdb
+C:\Users\mkref\source\repos\Lab03-System-I.O\CSharpReview\obj\Debug\netcoreapp3.1\CSharpReview.csprojAssemblyReference.cache
+C:\Users\mkref\source\repos\Lab03-System-I.O\CSharpReview\obj\Debug\netcoreapp3.1\CSharpReview.AssemblyInfoInputs.cache
+C:\Users\mkref\source\repos\Lab03-System-I.O\CSharpReview\obj\Debug\netcoreapp3.1\CSharpReview.AssemblyInfo.cs
+C:\Users\mkref\source\repos\Lab03-System-I.O\CSharpReview\obj\Debug\netcoreapp3.1\CSharpReview.csproj.CoreCompileInputs.cache
+C:\Users\mkref\source\repos\Lab03-System-I.O\CSharpReview\obj\Debug\netcoreapp3.1\CSharpReview.dll
+C:\Users\mkref\source\repos\Lab03-System-I.O\CSharpReview\obj\Debug\netcoreapp3.1\CSharpReview.pdb
+C:\Users\mkref\source\repos\Lab03-System-I.O\CSharpReview\obj\Debug\netcoreapp3.1\CSharpReview.genruntimeconfig.cache
