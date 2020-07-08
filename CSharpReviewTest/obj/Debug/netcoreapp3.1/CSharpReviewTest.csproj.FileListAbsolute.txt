@@ -1,0 +1,4 @@
+C:\Users\mkref\source\repos\Lab03-System-I.O\CSharpReviewTest\obj\Debug\netcoreapp3.1\CSharpReviewTest.csprojAssemblyReference.cache
+C:\Users\mkref\source\repos\Lab03-System-I.O\CSharpReviewTest\obj\Debug\netcoreapp3.1\CSharpReviewTest.AssemblyInfoInputs.cache
+C:\Users\mkref\source\repos\Lab03-System-I.O\CSharpReviewTest\obj\Debug\netcoreapp3.1\CSharpReviewTest.AssemblyInfo.cs
+C:\Users\mkref\source\repos\Lab03-System-I.O\CSharpReviewTest\obj\Debug\netcoreapp3.1\CSharpReviewTest.csproj.CoreCompileInputs.cache
